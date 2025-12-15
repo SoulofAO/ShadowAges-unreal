@@ -49,6 +49,8 @@ Content/__ExternalActors__/
 Content/__ExternalObjects__/
 Content/StarterContent/
 Content/FXVarietyPack/
+Content/Animations/
+Content/**/Animations/
 *.autosave
 *.backup
 *.old
