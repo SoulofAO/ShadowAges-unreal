@@ -1,6 +1,4 @@
 Binaries/
-DerivedDataCache/
-Intermediate/
 Saved/
 .vs/
 .vscode/
@@ -41,12 +39,9 @@ Plugins/*/Intermediate/
 Plugins/*/Binaries/
 Plugins/*/Saved/
 
-Engine/DerivedDataCache/
 
 Content/Developers/
 Content/Collections/
-Content/__ExternalActors__/
-Content/__ExternalObjects__/
 Content/StarterContent/
 Content/FXVarietyPack/
 Content/Animations/
