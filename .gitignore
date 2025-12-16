@@ -30,7 +30,7 @@ Build/
 *.appxmanifest
 *.ini.tmp
 
-
+Plugins/DismembermentKitV2/
 Plugins/*/Intermediate/
 Plugins/*/Binaries/
 
@@ -49,6 +49,8 @@ Content/ParagonSevarog/
 *.autosave
 *.backup
 *.old
+
+Content/Dismemberment/
 
 
 Saved/Autosaves/
