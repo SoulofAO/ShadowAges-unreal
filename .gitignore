@@ -34,6 +34,10 @@ Build/
 Plugins/*/Intermediate/
 Plugins/*/Binaries/
 
+Saved/
+DerivedDataCache/
+Intermediate/
+
 
 Content/Developers/
 Content/Collections/
@@ -45,7 +49,7 @@ Content/ParagonSevarog/
 *.autosave
 *.backup
 *.old
-Intermediate/
+
 
 Saved/Autosaves/
 Saved/Crashes/
