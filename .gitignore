@@ -2,13 +2,12 @@ Binaries/
 Saved/
 .vs/
 .vscode/
-
+Build/
 *.suo
 *.user
 *.userprefs
 *.xcodeproj
 *.xcworkspace
-
 
 *.opensdf
 *.sdf
@@ -44,6 +43,7 @@ Content/StarterContent/
 Content/FXVarietyPack/
 Content/Animations/
 Content/**/Animations/
+Content/ParagonSevarog/
 *.autosave
 *.backup
 *.old
