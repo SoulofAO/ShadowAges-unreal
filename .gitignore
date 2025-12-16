@@ -1,5 +1,4 @@
 Binaries/
-Saved/
 .vs/
 .vscode/
 Build/
@@ -34,7 +33,6 @@ Build/
 
 Plugins/*/Intermediate/
 Plugins/*/Binaries/
-Plugins/*/Saved/
 
 
 Content/Developers/
@@ -50,6 +48,15 @@ Content/ParagonSevarog/
 Intermediate/
 
 Saved/Autosaves/
+Saved/Crashes/
+Saved/Logs/
+Saved/webcache_4430/
+Saved/Temp/
+Saved/StagedBuilds/
+Saved/ShaderDebugInfo/
+
+
+
 *.umap.autosave
 *.uasset.autosave
 
