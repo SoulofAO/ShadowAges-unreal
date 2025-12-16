@@ -47,7 +47,7 @@ Content/ParagonSevarog/
 *.autosave
 *.backup
 *.old
-
+Intermediate/
 
 Saved/Autosaves/
 *.umap.autosave
